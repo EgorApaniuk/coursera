@@ -58,8 +58,8 @@ body {
   font-weight: bold;
 }
 .menu-part{/* div menupart */
-  margin: 20px auto;
-  width: 80vw;
+  margin: auto;
+  width: 70vw;
   height: auto;
   background-color: #666666;
 }
